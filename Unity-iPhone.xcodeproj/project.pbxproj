@@ -1072,7 +1072,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = EBSX6CSZNX.bijdehandjes.groeituin;
+				PRODUCT_BUNDLE_IDENTIFIER = bijdehandjes.groeituin;
 				PRODUCT_NAME = ProductName;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1138,7 +1138,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = EBSX6CSZNX.bijdehandjes.groeituin;
+				PRODUCT_BUNDLE_IDENTIFIER = bijdehandjes.groeituin;
 				PRODUCT_NAME = ProductName;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1330,7 +1330,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = EBSX6CSZNX.bijdehandjes.groeituin;
+				PRODUCT_BUNDLE_IDENTIFIER = bijdehandjes.groeituin;
 				PRODUCT_NAME = ProductName;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1465,7 +1465,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = EBSX6CSZNX.bijdehandjes.groeituin;
+				PRODUCT_BUNDLE_IDENTIFIER = bijdehandjes.groeituin;
 				PRODUCT_NAME = ProductName;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
